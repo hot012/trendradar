@@ -1,9 +1,6 @@
-# 在此粘贴你的 frequency_words.txt 内容...
-# 或拖拽文件到编辑器区域
-
 [GLOBAL_FILTER]
-
 震惊
+
 [WORD_GROUPS]
 [AI]
 AI
